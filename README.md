@@ -10,6 +10,6 @@ password: super_admin
 username: admin
 password: admin
 
-### Read User
+### Reader User
 username: user
 password: user
